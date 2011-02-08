@@ -1,11 +1,12 @@
-PNG Compressor
+PNG Optimizer
 ========================
-Details of this project can be found on the [PNG Compressor page][2] under:  
+Details of this project can be found on the [PNG Optimizer page][2] under:  
 [*http://www.CharmySoft.com/app/pngc.htm*][2]
 
 Introduction
 ------------------------
-[PNG Compressor][2] is a PNG image processing program used for compressing PNG files. It removes unnecessary PNG chunks, to loslessly reduce file size.
+[PNG Optimizer][2] is a PNG image processing program used for compressing PNG files. It removes unnecessary PNG chunks, to loslessly reduce file size.
+For demonstration purpose, a pre-compiled version is included in the [exe folder](/exe) where you can find some executable files that can different platforms.
 
 
 Usage
@@ -32,7 +33,7 @@ For more information about PNG chunks, read [PNG Specification, Version 1.2](htt
 
 Downloading
 ------------------------
-PNG Compressor can be obtained in many different ways. See details [here][3]:  
+PNG Optimizer can be obtained in many different ways. See details [here][3]:  
 [*http://www.CharmySoft.com/app/pngc.htm#download*][3]
 
 
@@ -53,6 +54,6 @@ Contact
 * About: [*http://www.CharmySoft.com/about.htm*][4]  
 
 [1]: http://www.CharmySoft.com/ "CharmySoft"
-[2]: http://www.CharmySoft.com/app/pngc.htm "PNG Compressor"
-[3]: http://www.CharmySoft.com/app/pngc.htm#download "Download PNG Compressor"
+[2]: http://www.CharmySoft.com/app/pngc.htm "PNG Optimizer"
+[3]: http://www.CharmySoft.com/app/pngc.htm#download "Download PNG Optimizer"
 [4]: http://www.CharmySoft.com/about.htm "About CharmySoft"
