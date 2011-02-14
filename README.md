@@ -20,6 +20,11 @@ Then run the executable with
 	./pngc
 
 
+Screenshots
+------------------------
+![Linux](/screenshots/linux.png?raw=true "Linux")
+
+
 Usage
 ------------------------
 Use the following command line to compress PNG files:  
