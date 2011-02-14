@@ -1,3 +1,10 @@
+/*
+**  PNG Optimizer
+**
+**  Author:		Charlie Chen
+**  Website:	http://www.CharmySoft.com/
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string.h>
@@ -8,9 +15,9 @@ using namespace std;
 Print help information (manual)
 \* ------------------------ */
 void help(){
-    cout << "PNG Compressor" << endl;
+    cout << "PNG Optimizer" << endl;
     cout << "--------------" << endl;
-    cout << "CharmySoft.com" << endl;
+    cout << "	CharmySoft.com" << endl;
     cout << "--------------" << endl;
     cout << "Usage: pngc [files...]" << endl;
     cout << "<to compress files>" << endl;
