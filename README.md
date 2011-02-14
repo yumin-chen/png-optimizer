@@ -1,4 +1,4 @@
-PNG Optimizer
+<img src="http://raw.github.com/CharmySoft/png-optimizer/master/icon/png-optimizer-icon.png" width="48"/>&nbsp;&nbsp;**PNG Optimizer**
 ========================
 Details of this project can be found on the [PNG Optimizer page][2] under:  
 [*http://www.CharmySoft.com/app/pngc.htm*][2]
@@ -6,7 +6,18 @@ Details of this project can be found on the [PNG Optimizer page][2] under:
 Introduction
 ------------------------
 [PNG Optimizer][2] is a PNG image processing program used for compressing PNG files. It removes unnecessary PNG chunks, to loslessly reduce file size.
-For demonstration purpose, a pre-compiled version is included in the [exe folder](/exe) where you can find some executable files that can different platforms.
+For demonstration purpose, a pre-compiled version is included in the [exe folder](/exe) where you can find some executable files that can run on different platforms.
+
+
+Instruction
+------------------------
+To use this code, compile it on Linux with this command:  
+
+	g++ src/pngc.cpp -o pngc 
+
+Then run the executable with  
+
+	./pngc
 
 
 Usage
