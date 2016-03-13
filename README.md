@@ -55,7 +55,7 @@ PNG Optimizer can be obtained in many different ways. See details [here][3]:
 
 Licensing
 ------------------------
-Please see the file named [LICENSE](LICENSE).
+Please see the file named [LICENSE.md](LICENSE.md).
 
 
 Author
